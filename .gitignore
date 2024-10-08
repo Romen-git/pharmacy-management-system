@@ -1,0 +1,41 @@
+# Ignore build-related files
+/build/
+/dist/
+/lib/
+
+# Ignore NetBeans project files
+/nbproject/private/
+/nbproject/build-impl.xml
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+/*.class
+*.log
+
+# Ignore dependency-related files
+*.jar
+*.war
+*.ear
+
+# Ignore generated documentation
+*.html
+*.pdf
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs, temporary files, and system-specific files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled binary files
+/bin/
+/obj/
+
+# Ignore report files
+report.*
+
